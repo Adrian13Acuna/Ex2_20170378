@@ -1,0 +1,18 @@
+recordar LINEA CODE <NUEVOSCRIPT.C>
+git config --global 
+user.email 'adrian.acuna@pucp.edu.pe'
+git config -- global
+user.nombre 'Adrian Acuna'
+
+git status (seguro sin commits)
+git add . 
+y luego git commit -m 'descripcion'
+
+para pushear los datos debo tener mis credenciales sino cualquier loco me cambio el codigo 
+
+voy a Credential Manager 
+credenciales windows 
+y la que dice git la quitas/añades lo que quieras 
+
+
+TOKEN: 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 

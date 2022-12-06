@@ -1,0 +1,44 @@
+CPU
+MEMORIAS
+PERIFÉRICOS 
+
+¿qué es un desarrollador embebido? 
+
+Lenguajes para sistemas embebidos: C, C++, Python, Rust, Arduino
+
+Con C: manejar mejor los espacios de memoria
+
+Gestion de memoria apropiada para programación de microcontroladores
+
+Python es un lenguaje interpretado vs los lenguajes compilados
+
+C se puede convertir en codigo máquina mucho más fácil 
+
+Kotline: lenguaje de los mas populares para desarrollo de apps
+
+Todos los UC de arquitectura ARM tiene el mismas instrucciones en assembler
+
+Cada procesador de laptop/pc y UC maneja un assembler distinto
+
+Depuracion: la sintaxis es correcta, pero existe algun error del algoritmo, declaracion de variables, etc. 
+
+Documentación: Mala practica no documentar, es necesario tener un repositorio con notas, manuales, actualizaciones, hojas de datos, etc. 
+
+C:punteros, direcciones, multithreading, estructuras de datos
+
+Programación en Linux es recomendable. Aprender Linux primer paso. Por ejemplo, se puede acceder a todas las funciones de raspberry cuando se usa Linux con ella
+
+TODO, TODO, ABSOLUTAMENTE TODO ESTA EN LA DOCUMENTACIÓN. LA HOJA DE DATOS. AHÍ ESTA TODO. 
+
+Simuladores con MBED
+Las evaluaciones se entregan mediante repositorios personales en GIT 
+
+EMBEDDED SOFTWARE ENGINEER/DEVELOPER
+
+Los nuevos procesadores de Apple son ARM. Los ARM tienen gran potencial de liderar el mercado de microcontroladores
+
+Codigo -E: Compilar genera el codigo preprocesado no un exe
+codigo -o: archivo de salida
+
+
+COMPILAR Y ENLAZAR y se GENERA EL EJECUTABLE 
